@@ -16,10 +16,11 @@ All examples in this repo will use AVERAGE() as an example, but you can replace 
 
 
 I provided 3 workbooks:
-Basic example. https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/contig.xlsx:
-The data and the formulas are on the same sheet.
+Basic example. The data and the formulas are on the same sheet: [contig.xlsx](https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/contig.xlsx)
 
-If you want the formulas on a separate sheet, then use https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/contig_diff_sheet.xlsx
 
+If you want the formulas on a separate sheet, then use: [contig_diff_sheet.xlsx](https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/contig_diff_sheet.xlsx)
+
+<br/>
 Notice: The first row of the "Range" column has a slightly different formula than the other rows.
 
