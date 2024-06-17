@@ -7,4 +7,4 @@
 ### Summary
 
 
-![](https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/assets/usage.mkv)
+![](https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/assets/usage.gif)
