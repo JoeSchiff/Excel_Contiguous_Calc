@@ -5,7 +5,7 @@
 <br/>
 
 ### Example
-Perform calculations on any contiguous range of cells.
+The range of cells are selected dynamically.
 
 ![](https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/assets/usage.gif)
 
