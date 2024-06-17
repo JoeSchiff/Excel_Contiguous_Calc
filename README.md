@@ -5,6 +5,7 @@
 <br/>
 ### Example
 Perform calculations on any contiguous range of cells.
+
 ![](https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/assets/usage.gif)
 
 All examples in this repo will use AVERAGE() as an example, but you can replace it with any calculation you want.
