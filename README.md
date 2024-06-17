@@ -3,6 +3,7 @@
 ### How to select and perform work on a contiguous series of rows.
 
 <br/>
+
 ### Example
 Perform calculations on any contiguous range of cells.
 
@@ -10,9 +11,8 @@ Perform calculations on any contiguous range of cells.
 
 All examples in this repo will use AVERAGE() as an example, but you can replace it with any calculation you want.
 
-
-
 <br/>
+
 ### Workbooks
 
 I provided 2 workbooks:<br/>
