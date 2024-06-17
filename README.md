@@ -14,6 +14,7 @@ All examples in this repo will use AVERAGE() as an example, but you can replace 
 
 <br/>
 ### Workbooks
+
 I provided 2 workbooks:<br/>
 Basic example. The data and the formulas are on the same sheet: [contig.xlsx](https://github.com/JoeSchiff/Excel_Contiguous_Calc/blob/main/contig.xlsx)
 
