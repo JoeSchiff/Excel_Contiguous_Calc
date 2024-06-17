@@ -1,6 +1,6 @@
 # Excel_Contiguous_Calc
 
-### How to select and perform work on a contiguous series of rows.
+### Select and perform work on a contiguous series of rows.
 
 <br/>
 
